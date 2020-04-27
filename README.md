@@ -2,4 +2,4 @@
 
 Pierwsza zmiana.
 
-To jest druga zmiania, tym razem w ramach zadania TASK-1.
+To jest druga zmiana, tym razem w ramach zadania TASK-1.
